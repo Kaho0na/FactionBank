@@ -1,2 +1,3 @@
-# FactionBank
-DayZ FactionBank Expansion Mod
+# FactionBank mod for DayZ Expansion Mod
+# by Kahoona
+
